@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 
 # Don't save the history of the shell session
+main.ipynb
