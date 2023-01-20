@@ -11,6 +11,6 @@ from includes.chemistry.chemical_equation_solver import chemical_equation_solver
 from includes.chemistry.stoichiometry import stoichiometry as stoich
 from includes.chemistry.limiting_reagent import limiting_reagent as lr
 
-Eq.setLatexPrint(True)
-Ceq.setLatexPrint(True)
-FLM.setLatexPrint(True)
+# Eq.setLatexPrint(True)
+# Ceq.setLatexPrint(True)
+# FLM.setLatexPrint(True)
